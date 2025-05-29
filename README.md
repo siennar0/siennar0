@@ -19,9 +19,41 @@
   Python GUI that scrapes and displays live local weather using Tkinter and BeautifulSoup.
 ---
 
-### 🛠️ Tools & Tech
-`Python` `JavaScript` `Node.js` `Express` `MongoDB` `React`  
-`Tkinter` `ZeroMQ` `SQL` `BeautifulSoup` `Git & GitHub`
+## 🛠️ Tools & Technologies
+
+### 💻 Programming Languages
+- Python
+- JavaScript
+- C 
+- X86 Assembly Language (MASM)
+
+### 🌐 Web Development
+- **Frontend:** HTML, CSS, JavaScript, React, DOM Manipulation, SPA
+- **Backend:** Node.js, Express.js, Asynchronous Programming, RESTful APIs
+- **Databases:** MongoDB, Mongoose, CRUD Operations
+
+### ⚙️ Development Tools
+- VS Code, PyCharm, Visual Studio
+- Git, GitHub, Git CLI, GitHub Desktop
+- Postman, MongoDB Compass
+- Replit (for quick testing)
+- Figma (for design and prototyping)
+
+### 🧪 CS Fundamentals
+- Data Structures & Algorithms
+- Time/Space Complexity, Big O Notation
+
+### 📦 Software Engineering Practices
+- Microservices Architecture
+- ZeroMQ (for communication between services)
+- Agile Methodologies (Agile, Scrum)
+- Version Control (Git, GitHub)
+
+### 🖥️ GUI & APIs
+- Tkinter (Python GUI), Pmw, PIL
+- API Integration (API Ninjas, Weather APIs)
+- Web Scraping (BeautifulSoup4 + Requests)
+
 
 ---
 

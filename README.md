@@ -2,11 +2,9 @@
 
 🎓 I’m currently a Computer Science student at Oregon State University, transitioning from a professional background as a Registered Veterinary Technologist.
 
-💻 I love building user-focused applications that blend logic and empathy — from desktop tools to full-stack web apps.
-
 ---
 
-### 🚀 Projects I'm Proud Of
+### 🚀 Projects 
 
 - 🔹 **[Full Stack MERN Website](https://github.com/siennar0/mern-website-showcase)**  
   A fully functional e-commerce site using MongoDB, Express, React, and Node.js with CRUD and REST APIs.

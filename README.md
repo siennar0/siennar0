@@ -26,7 +26,7 @@
 ---
 
 ### 📫 Let's Connect
-- 🌐 [LinkedIn](www.linkedin.com/in/sienna-raigoza-7b71b6139)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/sienna-raigoza-7b71b6139)
 
 ---
 
